@@ -1,4 +1,3 @@
 # KvUmbrella
 
-**TODO: Add description**
-
+**Test Elixir application for training**
